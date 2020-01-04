@@ -1,0 +1,70 @@
+body{
+	background-image:url('../img/6.jpg');
+	background-position:center;
+	background-attachment:fixed;
+	background-size:cover;
+	background-repeat:no-repeat;
+	font-family: cursive;
+}
+
+.login-container{
+	background-color:rgba(255,200,255,0.3);
+	margin-top:35%;
+	padding:30px;
+	color:#56453e;
+}
+
+.mybox a{
+	color:#fff;
+	text-decoration:none;
+}
+
+.mybox a:hover{
+	color:#f80;
+	text-decoration:none;
+}
+
+.mybox .well{
+	background-color:rgba(241, 20, 255, 0.28);
+	padding:30px;
+	text-align:center;
+}
+
+.table th{
+	color:#afa;
+}
+.table td{
+	color:#3ff;
+}
+.row{
+	color:blue;
+}
+.form{
+	margin:5%;
+	margin-left:10%;
+	margin-right:30%;
+	background:rgba(0,0,0,0.4);
+}
+.form .form div>label{
+	    color: thistle;
+}
+
+.tabletrans .well{
+	background-color:rgba(116, 49, 93, 0.26)
+}
+.navbar-inverse
+{
+    background-color: rgba(243, 24, 145, 0.64);
+
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: azure;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+	color:greenyellow;
+}
+.paneledit{
+	
+}
